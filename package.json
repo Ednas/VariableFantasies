@@ -4,7 +4,8 @@
   "description": "Stories displayed in an animated manner",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Ednas/VariableFantasies/issues"
   },
-  "homepage": "https://github.com/Ednas/VariableFantasies#readme"
+  "homepage": "https://github.com/Ednas/VariableFantasies#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3"
+  }
 }
