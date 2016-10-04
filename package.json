@@ -1,0 +1,25 @@
+{
+  "name": "variablefantasies",
+  "version": "1.0.0",
+  "description": "Stories displayed in an animated manner",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ednas/VariableFantasies.git"
+  },
+  "keywords": [
+    "sass",
+    "mongoose",
+    "express",
+    "node"
+  ],
+  "author": "Edna Jonsson & Victor Cabieles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ednas/VariableFantasies/issues"
+  },
+  "homepage": "https://github.com/Ednas/VariableFantasies#readme"
+}
