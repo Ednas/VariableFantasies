@@ -5,3 +5,4 @@ This project started in the summer of 2016, there were several collaborators to 
 Variable Fantasies is an application written in Angular with Parallax effects and several npm packages, it uses a Mongoose database.
 
 This project is a story web-site with several classic fairytale stories already provided, then when you scroll through the page to read the story, the images with the story will come to life via a parallax effect. Users will be able to add their own stories to the site with images and as they do so, their stories will be transformed into the same format as the existing stories, providing their stories with the magical effect of parallax. This site will be a joy for people young and old to enjoy stories, create their own and see the effects as parallax brings the stories they enjoy to life.
+

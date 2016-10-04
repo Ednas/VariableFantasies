@@ -1,0 +1,7 @@
+Need Too,
+
+Images, Stories, Database, Fonts.
+
+Menubar, Pick A story. Navabar About Us, Make A Story Contact Us.
+
+Wyziwig, upload images, connect to database. Search bar.

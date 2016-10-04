@@ -1,0 +1,1 @@
+$(.btn).on('click').append.story;
