@@ -25,6 +25,8 @@
   "homepage": "https://github.com/Ednas/VariableFantasies#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "cookie-parser": "^1.4.3"
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.2.0",
+    "ejs": "^2.5.2"
   }
 }
